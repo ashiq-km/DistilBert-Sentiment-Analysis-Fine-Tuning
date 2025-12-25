@@ -1,4 +1,5 @@
 
+<img src = "assets/cover page.png" width = 700>
 
 # 🎬 Movie reviews Sentiment Analysis with DistilBERT
 
